@@ -1,0 +1,21 @@
+2026-02-08 10:56:42,029 - INFO - Thread 0 STARTED downloading file1.pdf
+2026-02-08 10:56:42,030 - INFO - Thread 1 STARTED downloading file2.txt
+2026-02-08 10:56:42,031 - INFO - Thread 2 STARTED downloading file3.csv
+2026-02-08 10:56:42,031 - INFO - Thread 3 STARTED downloading file4.txt
+2026-02-08 10:56:42,032 - INFO - Thread 4 STARTED downloading file5.txt
+2026-02-08 10:56:42,043 - INFO - Thread 5 STARTED downloading file6.txt
+2026-02-08 10:56:42,093 - INFO - Thread 6 STARTED downloading file7.txt
+2026-02-08 10:56:42,114 - INFO - Thread 7 STARTED downloading file8.csv
+2026-02-08 10:56:42,159 - INFO - Thread 8 STARTED downloading file9.txt
+2026-02-08 10:56:42,159 - INFO - Thread 9 STARTED downloading file10.txt
+2026-02-08 10:56:42,339 - INFO - Thread 8 FINISHED downloading file9.txt
+2026-02-08 10:56:42,349 - INFO - Thread 4 FINISHED downloading file5.txt
+2026-02-08 10:56:42,389 - INFO - Thread 9 FINISHED downloading file10.txt
+2026-02-08 10:56:42,405 - INFO - Thread 0 FINISHED downloading file1.pdf
+2026-02-08 10:56:42,499 - INFO - Thread 6 FINISHED downloading file7.txt
+2026-02-08 10:56:42,556 - INFO - Thread 2 FINISHED downloading file3.csv
+2026-02-08 10:56:43,908 - INFO - Thread 5 FINISHED downloading file6.txt
+2026-02-08 10:56:44,030 - INFO - Thread 3 FINISHED downloading file4.txt
+2026-02-08 10:56:44,114 - INFO - Thread 7 FINISHED downloading file8.csv
+2026-02-08 10:56:44,193 - INFO - Thread 1 FINISHED downloading file2.txt
+2026-02-08 10:56:44,193 - INFO - All threads completed.
