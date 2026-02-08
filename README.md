@@ -30,7 +30,7 @@ Multithreading was used in this project because downloading files is an I/O-boun
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 data/
@@ -52,7 +52,7 @@ logs/
 │
 src/
 │ └── Multithreaded_file_downloader/
-│ ├── init.py  # Allows importing files from this folder as a package
+│ ├──__init__.py  # Allows importing files from this folder as a package
 │ ├── file_downloader.py #file downloading logic 
 │ ├── logger.py # Logging setup
 │ └── main.py   # Program entry point
